@@ -1,0 +1,32 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fondoverde{
+    background-color: #28A745 !important;
+
+}
+
+.imagentamaño{
+    width: 30%;
+}
+.precio {
+    color: #28A745;
+    font-weight: 800;
+    padding-left: 5%;
+}
+.precio1 {
+    color: #707070;
+    opacity: 100%;
+    font-weight: 300;
+}
+.subtitulo {
+    font-weight: 100;
+}
+.imagentamañoblack {
+    width: 15%;
+}
+.textorecibe{
+    font-size: 130%;
+}
